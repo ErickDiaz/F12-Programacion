@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python-blue)
 
----
+
 
 ## 📘 Descripción del Curso
 
